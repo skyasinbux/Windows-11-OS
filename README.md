@@ -11,11 +11,11 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - Deri-Kurniawan.github.io](https://img.shields.io/github/issues/Deri-Kurniawan/Deri-Kurniawan.github.io)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/issues)
 
-Deployed at Vercel - [https://deri-kurniawan.vercel.app](https://deri-kurniawan.vercel.app)
+Deployed at Vercel - [https://windows11os-yasin.vercel.app/](https://windows11os-yasin.vercel.app/)
 
 ## Credits
 
-Special thanks to the givers of the sources listed on [CREDITS](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/blob/main/CREDITS.md)
+Special thanks to the givers of the sources listed on [CREDITS](https://windows11os-yasin.vercel.app/blob/main/CREDITS.md)
 
 ## License
 
