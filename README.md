@@ -1,4 +1,4 @@
-# Deri Kurniawan's Desktop Windows 11 OS Clone
+# Sk Yasin Bux's Desktop Windows 11 OS Clone
 
 ![Mockup](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/blob/main/docs/images/mockup.png)
 
@@ -19,4 +19,4 @@ Special thanks to the givers of the sources listed on [CREDITS](https://github.c
 
 ## License
 
-Released under [MIT](/LICENSE) by [@Deri-Kurniawan](https://github.com/Deri-Kurniawan).
+Released under [MIT](/LICENSE) by [@Sk Yasin Bux](https://github.com/skyasinbux).
