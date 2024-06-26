@@ -1,8 +1,8 @@
 # Sk Yasin Bux's Desktop Windows 11 OS Clone
 
-![Mockup](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/blob/main/docs/images/mockup.png)
+![Mockup](https://github.com/skyasinbux/Windows-11-OS/blob/main/docs/images/mockup.png)
 
-[![Deri-Kurniawan - Deri-Kurniawan.github.io](https://img.shields.io/static/v1?label=Deri-Kurniawan&message=Deri-Kurniawan.github.io&color=blue&logo=github)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io "Go to GitHub repo")
+[![Deri-Kurniawan - Deri-Kurniawan.github.io](https://img.shields.io/static/v1?label=Deri-Kurniawan&message=Deri-Kurniawan.github.io&color=blue&logo=github)](https://github.com/skyasinbux/Windows-11-OS/ "Go to GitHub repo")
 [![pages-build-deployment](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/actions/workflows/pages/pages-build-deployment)
 [![stars - Deri-Kurniawan.github.io](https://img.shields.io/github/stars/Deri-Kurniawan/Deri-Kurniawan.github.io?style=social)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io)
 [![forks - Deri-Kurniawan.github.io](https://img.shields.io/github/forks/Deri-Kurniawan/Deri-Kurniawan.github.io?style=social)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io)
