@@ -1,6 +1,6 @@
 # Sk Yasin Bux's Desktop Windows 11 OS Clone
 
-![Mockup](https://github.com/skyasinbux/Windows-11-OS/blob/main/mockup.jpg)
+![Mockup](https://github.com/skyasinbux/Windows-11-OS/blob/main/Preview.png)
 
 [![Deri-Kurniawan - Deri-Kurniawan.github.io](https://img.shields.io/static/v1?label=Deri-Kurniawan&message=Deri-Kurniawan.github.io&color=blue&logo=github)](https://github.com/skyasinbux/Windows-11-OS/ "Go to GitHub repo")
 [![pages-build-deployment](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io/actions/workflows/pages/pages-build-deployment)
