@@ -1,0 +1,17 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Sk Yasin Bux Desktop",
+  "short_name": "Yasin's Desktop",
+  "description": "Sk Yasin Bux's Desktop Windows 11 OS Clone",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
