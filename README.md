@@ -15,7 +15,7 @@ Deployed at Vercel - [https://windows11os-yasin.vercel.app/](https://windows11os
 
 ## Credits
 
-Special thanks to the givers of the sources listed on [CREDITS](https://windows11os-yasin.vercel.app/blob/main/CREDITS.md)
+Special thanks to the givers of the sources listed on [CREDITS](https://github.com/skyasinbux/Windows-11-OS/blob/main/CREDITS.md)
 
 ## License
 
