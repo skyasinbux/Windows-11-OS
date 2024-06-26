@@ -13,4 +13,4 @@ Special Thanks To:
 </div>
 
 ## 2. [icons8.com](https://icons8.com):
-[All the icons in the following folder](https://github.com/skyasinbux/skyasinbux.github.io/tree/main/src/assets/images/icons/apps)
+[All the icons in the following folder](https://github.com/skyasinbux/Windows-11-OS/tree/main/src/assets/images/icons/apps)
