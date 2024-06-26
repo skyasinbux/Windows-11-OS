@@ -248,7 +248,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://github.com/skyasinbux/",
+          "https://github.com/skyasinbux/Windows-11-OS",
           "_blank",
           WIN_FEATURES
         );
